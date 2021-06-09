@@ -260,10 +260,10 @@ button:focus {
 .navbar-default .navbar-brand:hover, 
 .navbar-default .navbar-brand:focus {
 	color: #fff;
-	font-size: 30px;
+	font-size: 35px;
 	font-family: 'Poppins', sans-serif;
 	margin-top: 0;
-	width: 150px;
+	width: 200px;
 	line-height: 35px;
 }
 
